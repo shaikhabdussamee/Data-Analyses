@@ -1,7 +1,6 @@
 # Data-Analyses using Power Bi
-<img width="956" alt="Screenshot_20221209_194706" src="https://user-images.githubusercontent.com/26708403/206722285-ce70eba6-8798-4601-a470-ce5dac2ad817.png">
 
-#Goal - Develope a database to analyze and visualize Hotel Booking Data
+# Goal - Develope a database to analyze and visualize Hotel Booking Data
 Requirments - Building a Visual data dashboard using Power Bi to present to our Stakeholder
 
 Step 1: Open Microsoft SQL Server Management and import the excel data in it.
